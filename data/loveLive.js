@@ -1,7 +1,7 @@
 exports.loveLive = {
   name: 'Love Live',
   alias: ['LL'],
-  info: '传说中，圣杯是能够实现拥有者愿望的宝物。为了追求圣杯的力量，7位魔术师各自召唤英灵，展开争夺圣杯的战斗，这就是圣杯战争。',
+  info: "《Love Live!（ラブライブ!）》是由日本知名动画制作公司SUNRISE、音乐出版商Lantis以及 ACG 月刊杂志电击G'smagazine联手打造的二次元偶像企划。",
   cover: '',
   characters: [
     {
