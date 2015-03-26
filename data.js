@@ -196,11 +196,11 @@ async.waterfall([
   }
 
   console.log('----- insert finished -----');
+  process.exit(0);
 
-  setTimeout(function () {
-    console.log('----- adding index -----');
-    shell.exec('node addIndex.js');
-    console.log('----- adding index finished -----');
-    process.exit(0);
-  }, 1000);
+  // setTimeout(function () {
+  //   console.log('----- adding index -----');
+  //   shell.exec('node addIndex.js');
+  //   console.log('----- adding index finished -----');
+  // }, 1000);
 });
