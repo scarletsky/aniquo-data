@@ -5,8 +5,6 @@ Aniquo data
 
 ```bash
 $ cd path/to/Lenneth/
-$ elasticsearch&
-$ supervisor node app.js&
 $ node data.js
 ```
 
