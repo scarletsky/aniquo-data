@@ -67,7 +67,7 @@ exports.fullmetalAlchemist = {
     // 非主要人物
     {
       name: '罗塞',
-      alias: [''],
+      alias: [],
       info: ''
     },
     {
