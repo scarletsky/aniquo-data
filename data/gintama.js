@@ -3,77 +3,77 @@ exports.gintama = {
   name: '银魂',
   alias: ['银他妈', 'gintama'],
   info: '无节操片',
-  cover: 'http://aniquo.qiniudn.com/images/sourceCover/7888b94ef6af09d097d586183f1c5617',
+  cover: '/images/sourceCover/7888b94ef6af09d097d586183f1c5617',
   characters: [
     // 银桑
     {
       name: '坂田银时',
       alias: ['银桑', '啊银', '银时'],
       info: '坂田银时是活跃在攘夷后期创造无数传奇的革命家，因威震敌我而被称为“白夜叉”。现住歌舞伎町一条街，与神乐，志村新八经营万事屋，是个坚守自己武士道的男子汉，但同时也是个不折不扣的MADAO，常拖欠房租，但每周都会买《少年JUMP》 爱挖鼻孔。',
-      avatar: 'http://aniquo.qiniudn.com/images/characterAvatar/0c860e902d229aea6a7aa40735c6ed25'
+      avatar: '/images/characterAvatar/0c860e902d229aea6a7aa40735c6ed25'
     },
     // 新吧唧
     {
       name: '志村新八',
       alias: ['新吧唧', '新八'],
       info: '“万事屋”里不可缺少的吐槽成员。反射能力弱，运动神经差，没有女人缘。是“万事屋”里攻击力最差的一位。现还担任江户人气偶像寺门通的亲卫队队长。很爱他的姐姐阿妙，即使被说成姐控，也想要姐姐能幸福。在没有进入“万事屋”与遇上银时前，新八在甜品店工作。十分冒失，经常惹怒店长，是个将自尊和吐槽精神抛弃的打工仔。他是经常被欺负的角色，常被形容为「很平凡、很普通、大众脸」，甚至经常被错认为眼镜。',
-      avatar: 'http://aniquo.qiniudn.com/images/characterAvatar/05b1d06c22464ba72c729bac7140d87b',
+      avatar: '/images/characterAvatar/05b1d06c22464ba72c729bac7140d87b',
     },
     // 神乐
     {
       name: '神乐',
       alias: ['神乐酱'],
       info: '《银魂》中的女主角，属于宇宙最强的战斗种族“夜兔族”。 因为在老家每顿只能吃调味粉拌饭，到了江户被流氓雇佣，因为厌恶而逃出时遇到了银时他们，之后在万事屋打工。想要改变夜兔族，与夜兔好战的血液战斗，用自己的力量去保护而不是伤害他人。',
-      avatar: 'http://aniquo.qiniudn.com/images/characterAvatar/499a6a7343aabd9d8185bc758caabf42',
+      avatar: '/images/characterAvatar/499a6a7343aabd9d8185bc758caabf42',
     },
     // 桂小太郎
     {
       name: '桂小太郎',
       alias: ['假发', '桂'],
       info: '攘夷志士中的幸存者，坂田银时的伙伴。现在被看作是恐怖分子（往“天人”的政府机关里扔炸弹），是攘夷志士的头目之一。原本是激进派，现在变成了稳健派。（银魂中有提到）。长发飘逸，表面上是个十分COOL的美男子，有时亦十分白痴。',
-      avatar: 'http://aniquo.qiniudn.com/images/characterAvatar/5fe062f52843361eb3fb251a90cc6fe4',
+      avatar: '/images/characterAvatar/5fe062f52843361eb3fb251a90cc6fe4',
     },
     // 近藤勋
     {
       name: '近藤勋',
       alias: ['こんどう いさお', '大猩猩', '近藤'],
       info: '近藤勋出自空知英秋原作人气动漫《银魂》，一手创建了真选组（历史原形新选组），职位是局长，别名为“大猩猩”。 剑术虽然高超，却深藏不露。经常犯二，被志村妙列为头号必须杀掉的人，目前依旧在追着志村妙。',
-      avatar: 'http://aniquo.qiniudn.com/images/characterAvatar/4a51998df1139cfacbd507729eca9bb3',
+      avatar: '/images/characterAvatar/4a51998df1139cfacbd507729eca9bb3',
     },
     // 土方十四郎
     {
       name: '土方十四郎',
       alias: ['十四', '土方', '鬼之副长', '宅十四'],
       info: '真选组副长，有“鬼之副长”之称。',
-      avatar: 'http://aniquo.qiniudn.com/images/characterAvatar/8605154bd8fd6ace385a347756cc2506'
+      avatar: '/images/characterAvatar/8605154bd8fd6ace385a347756cc2506'
     },
     // 冲田总悟
     {
       name: '冲田总悟',
       alias: ['总悟'],
       info: '真选组一番队队长，目标是把土方十四郎干掉自己荣升副长（还有一部分成分是因为姐姐而讨厌土方）。原型为江户后期幕末新撰组的冲田总司。超级抖S，号称真选组的剑术第一高手，却很少用剑战斗，多用火箭筒。外表清秀的美少年， 但为人超级腹黑。性格腹黑指数90%，是被认为整个组里最不能招惹的人物。',
-      avatar: 'http://aniquo.qiniudn.com/images/characterAvatar/34f1973fca5ae601216da1e0f6053ce6'
+      avatar: '/images/characterAvatar/34f1973fca5ae601216da1e0f6053ce6'
     },
     // 志村妙
     {
       name: '志村妙',
       alias: ['しむら たえ', '妙'],
       info: '志村新八的姐姐，美丽的外表下隐藏是凶暴的脾气，发起脾气时任谁都害怕的存在，被银时、小猿称为“猩猩女”，喜欢的食物是哈根达斯。被近藤勋和柳生九兵卫所爱慕着。',
-      avatar: 'http://aniquo.qiniudn.com/images/characterAvatar/32fea7f38c27daf824b814d583a95f6b',
+      avatar: '/images/characterAvatar/32fea7f38c27daf824b814d583a95f6b',
     },
     // 长谷川泰三
     {
       name: '长谷川泰三',
       alias: ['はせがわ たいぞう', 'madao', 'MADAO', '长谷川'],
       info: '姓名是长谷川泰三，假名为はせがわ たいぞう ，且绰号为MD（MADAO:废柴大叔）',
-      avatar: 'http://aniquo.qiniudn.com/images/characterAvatar/10bc6f6e8612293d22b40ff008643a57',
+      avatar: '/images/characterAvatar/10bc6f6e8612293d22b40ff008643a57',
     },
     // 登势
     {
       name: '登势',
       alias: ['お登势', '寺田绫乃'],
       info: '登势【お登势】，是日本动漫作品《银魂》中的架空登场人物，主角银时的房东，同时也是歌舞伎町四天王之一，本名为“寺田绫乃”。',
-      avatar: 'http://aniquo.qiniudn.com/images/characterAvatar/0e3746dc646be426708cebab02c5e2e8',
+      avatar: '/images/characterAvatar/0e3746dc646be426708cebab02c5e2e8',
     },
     // 源外大叔
     {
@@ -86,14 +86,14 @@ exports.gintama = {
       name: '高杉晋助',
       alias: ['たかすぎ　しんすけ', '高杉'],
       info: '日本动漫作品《银魂》中的人物。是主角坂田银时的私塾同学和战时的同伴。现为银魂世界中的反政府恐怖分子，成立了鬼兵队，以摧毁幕府为目的，经常煽动、策划或制造动乱。被称为“攘夷浪士中最过激、最危险的男人。',
-      avatar: 'http://aniquo.qiniudn.com/images/characterAvatar/54a181d38b69e3ae6cea5607f6233b07',
+      avatar: '/images/characterAvatar/54a181d38b69e3ae6cea5607f6233b07',
     },
     // 小猿
     {
       name: '猿飞菖蒲',
       alias: ['猿飞 あやめ', '小猿'],
       info: '日本漫画家空知英秋作品《银魂》中的人物。戴着红框眼镜，有着灰色瞳孔和紫色长发，右眼下有泪痣的美女。自称：不戴眼镜就什么都看不见，连明天也看不见，虽然已经没了明天呢。经常因为不戴眼镜而认错人。有银时的跟踪狂这个属性。另外还喜欢把自己捆起来，被揍也觉得没关系，是一个十足的抖M。被银时称为母猪。',
-      avatar: 'http://aniquo.qiniudn.com/images/characterAvatar/ce98ea8885d39d1b1e36a92c1bb652e7',
+      avatar: '/images/characterAvatar/ce98ea8885d39d1b1e36a92c1bb652e7',
     },
     // 山崎
     {
@@ -309,193 +309,193 @@ exports.gintama = {
     {
       quote: '阿妙小姐，请与我结婚吧！就算被甩一两次，我是不会倒下的。妈妈说过，女人与其爱人，不如被爱来的幸福。',
       reference: 'TV版第8话，爬上电线杆示爱',
-      scene: 'http://aniquo.qiniudn.com/images/quoteScene/d4fd41c009dbcd9757c12aee41095142',
+      scene: '/images/quoteScene/d4fd41c009dbcd9757c12aee41095142',
       characters: ['近藤']
     },
     {
       quote: '说我是小偷也行，不过那我也是...来偷心的。',
       reference: 'TV版第8话，在电线杆上被怀疑',
-      scene: 'http://aniquo.qiniudn.com/images/quoteScene/189a20dc1b86c1faf4a6478d48aec56e',
+      scene: '/images/quoteScene/189a20dc1b86c1faf4a6478d48aec56e',
       characters: ['近藤']
     },
     {
       quote: '人类都是不停地追着爱跑的跟踪狂。',
       reference: 'TV版第8话，跟踪被银桑发现',
-      scene: 'http://aniquo.qiniudn.com/images/quoteScene/8844560f017c024bce9da6c523a58fc0',
+      scene: '/images/quoteScene/8844560f017c024bce9da6c523a58fc0',
       characters: ['近藤']
     },
     {
       quote: '近藤：你小子，是个有种的好男人。不，和女人相比，我看你更受男人欢迎。小子，把你的木刀借给我。\n\n银时：你也很有种，用这个吧。我最自豪的爱刀洞爷湖。看来无论是赢是输，双方都不要有遗憾啊。\n\n近藤：没错，纯粹是作为男人来一决胜负。',
       reference: 'TV版第8话，夕阳下和银桑决斗',
-      scene: 'http://aniquo.qiniudn.com/images/quoteScene/af063102092c5bac3b78a41f0e1bead7',
+      scene: '/images/quoteScene/af063102092c5bac3b78a41f0e1bead7',
       characters: ['近藤', '银时']
     },
     {
       quote: '不好意思，我还不至于夸张到轻易以别人的人生作为赌注，也就是说换个办法吧，用我的命作为赌注。用我的命代替阿妙作为赌注，即使你赢了，阿妙也不会是你的。\n\n但碍事的我会从世界上消失。之后你追她也好，怎么也好，随便你。当然我赢了的话，你就不能对阿妙出手。',
       reference: 'TV版第8话，夕阳下和近藤决斗',
-      scene: 'http://aniquo.qiniudn.com/images/quoteScene/7e34fcddae692f58b6ae9cd3141e61c6',
+      scene: '/images/quoteScene/7e34fcddae692f58b6ae9cd3141e61c6',
       characters: ['银时']
     },
     {
       quote: '银时：你太天真了，比天津炒栗子还甜。怎么可以向敌人借武器。我在厕所里削的，只要画半圈挥舞就会折断。\n\n近藤：你这混蛋，居然做这种事。\n\n银时：为了这点事就要有人失去什么的话，那才是愚蠢呢。为了圆满处理这件事，还是这招最好吧。',
       reference: 'TV版第8话，和近藤决斗',
-      scene: 'http://aniquo.qiniudn.com/images/quoteScene/90b6ac4c02010a8306f9d3754e608381',
+      scene: '/images/quoteScene/90b6ac4c02010a8306f9d3754e608381',
       characters: ['银时', '近藤']
     },
     {
       quote: '就算是大猩猩，可是对我们来说，也是最重要的老大，是和我一起，只靠着这玩意就撑起整个真选组的重要的战友。\n\n我不会让任何人玷污我们真选组，一旦出现挡道的东西，就只有用这玩儿砍了。',
       reference: 'TV版第9话，和银时在屋顶上决斗',
-      scene: 'http://aniquo.qiniudn.com/images/quoteScene/14e86d6087cc5f06647edc3a21d8344c',
+      scene: '/images/quoteScene/14e86d6087cc5f06647edc3a21d8344c',
       characters: ['土方']
     },
     {
       quote: '银时：打架这玩意，不就是为了守护什么东西吗？就像你是为了守护真选组。\n\n土方：守护...那你又在守护什么东西？\n\n银时：我的武士道。再会啦。',
       reference: 'TV版第9话，和土方决斗完',
-      scene: 'http://aniquo.qiniudn.com/images/quoteScene/e0d4994a3f2a0991572119c0621e475a',
+      scene: '/images/quoteScene/e0d4994a3f2a0991572119c0621e475a',
       characters: ['银时', '土方']
     },
     {
       quote: '新八：让它停下来，神乐。\n\n银时：好重啊。\n\n神乐：终于明白我心情沉重了啊。\n\n新八：不是，我是说真的很重。\n\n神乐：接受别人的爱，有时确实很沉重。不过不用担心我和定春。',
       reference: 'TV版第10话，神乐说要养定春',
-      scene: 'http://aniquo.qiniudn.com/images/quoteScene/a0a680cd23d8cc53e0c2e8ac42221a17',
+      scene: '/images/quoteScene/a0a680cd23d8cc53e0c2e8ac42221a17',
       characters: ['新八', '神乐', '银时']
     },
     {
       quote: '对于那样看上去可爱的，男人是不能掉以轻心的。',
       reference: 'TV版第10话，神乐说要养定春',
-      scene: 'http://aniquo.qiniudn.com/images/quoteScene/a0a680cd23d8cc53e0c2e8ac42221a17',
+      scene: '/images/quoteScene/a0a680cd23d8cc53e0c2e8ac42221a17',
       characters: ['银时']
     },
     {
       quote: '人不管长多大，都仍然在寻觅容身之所的旅程上前行。',
       reference: 'TV版第11话，医院里面',
-      scene: 'http://aniquo.qiniudn.com/images/quoteScene/f8f0c10bb7543f2ffc4c5bcd1a2b1df2',
+      scene: '/images/quoteScene/f8f0c10bb7543f2ffc4c5bcd1a2b1df2',
       characters: ['银时']
     },
     {
       quote: '人生中最重要的既不是金钱也不是学历，而是爱。',
       reference: 'TV版第11话，坑新八去照顾老人',
-      scene: 'http://aniquo.qiniudn.com/images/quoteScene/1ea883c7b236eb2a06618827831c65d2',
+      scene: '/images/quoteScene/1ea883c7b236eb2a06618827831c65d2',
       characters: ['银时']
     },
     {
       quote: '虽然你可能经历过艰辛的痛苦的无法忍受的事情，不过请你加油吧。\n\n以为现在就很痛苦了，其实今后会有更多更痛苦的事情等着你。\n\n这么想就能坚持下去了。',
       reference: 'TV版第12话，对凯瑟琳',
-      scene: 'http://aniquo.qiniudn.com/images/quoteScene/a1013850e04e1c663d421cf58ae0c282',
+      scene: '/images/quoteScene/a1013850e04e1c663d421cf58ae0c282',
       characters: ['银时']
     },
     {
       quote: '登势：首先认识那个男人是这样的。那是个下雪的寒冷日子，我一时兴起，去给老头子扫墓。\n\n银时：喂，老太婆，我能不能吃那个馒头，我饿得快死了。\n\n登势：那不是我的，而是我老头子的东西，你去问他吧。\n\n银时：这样啊，那好。\n\n登势：我的老头子说什么了？你猜他是怎么回答我的？他说：“死人怎么可能回答我”。还说什么“这个恩情我不会忘记的。老太婆，你日子也不多了。从今以后，我替你保护她好了。”',
       reference: 'TV版第12话，回忆与银时的相遇',
-      scene: 'http://aniquo.qiniudn.com/images/quoteScene/f050e86351b8187f94359216b96abae7',
+      scene: '/images/quoteScene/f050e86351b8187f94359216b96abae7',
       characters: ['登势', '银时']
     },
     {
       quote: '银时：你给她工作，她还恩将仇报，背信弃义的家伙不论男女都很丑陋啊，老太婆。\n\n登势：不付房租还霸着人家二楼不走的家伙不丑陋吗？\n\n银时：人类都是丑陋的生物啊。\n\n登势：你说的根本前言不搭后语啊。',
       reference: 'TV版第12话，捉到凯瑟琳后',
-      scene: 'http://aniquo.qiniudn.com/images/quoteScene/b88b2d57b23da310849b91e690279d80',
+      scene: '/images/quoteScene/b88b2d57b23da310849b91e690279d80',
       characters: ['银时', '登势']
     },
     {
       quote: '银时：同伴被他们绑架了，不能置之不理。\n\n桂：你认为就凭你现在这副身体能赢吗？\n\n银时：人的一生，就仿佛身负沉重的行李走在遥远的旅途上。这句话，是以前一个叫德川田信秀的大叔说的。\n\n桂：这是你混了多少大名的名字啊？应该是家康公啊，家康公。\n\n银时：初听觉得是句很烦人的话，可是慢慢想想，老人家的话果然还是有道理啊。\n也许算不上什么行李，不过任何人的双臂中都抱着些珍贵的东西，但是拥有的时候永远也不会留意到。\n注意到那份沉重却是在一切都从手中悄然滑落的时候，不知道多少次的反复想着，那种玩意再也不想再拥有了。\n可是，不知道很么时候又背起了。\n也许索性全部抛弃会比较轻松，可无论如何还是不想那样做。\n因为没有那些家伙的话，旅程将多么的无趣啊。\n\n桂：真拿你没办法啊，池田屋的时候算我欠你人情。走吧。\n你就一只手怎么拿行李呢？从现在开始，我就是你的左手。',
       reference: 'TV版第13话，准备去救被绑架的同伴',
-      scene: 'http://aniquo.qiniudn.com/images/quoteScene/b6f41dcc1fc856523c2cb9783b213525',
+      scene: '/images/quoteScene/b6f41dcc1fc856523c2cb9783b213525',
       characters: ['银时', '桂']
     },
     {
       quote: '听好了。你们在宇宙的什么地方干什么我都不管。但我的剑，这家伙的可及之处，就是我的国家。对于不解风情的乱闯进来，对我的东西出手的家伙，管他是将军还是宇宙海盗，还是陨石，都格杀勿论！',
       reference: 'TV版第13话，和宇宙海盗战斗',
-      scene: 'http://aniquo.qiniudn.com/images/quoteScene/568cb7238aec43e4f2607985bf413a63',
+      scene: '/images/quoteScene/568cb7238aec43e4f2607985bf413a63',
       characters: ['银时']
     },
     {
       quote: '总悟：我才不管他是不是幕府高官，为什么我们非得保护那只癞蛤蟆？\n\n近藤：总悟，我们是被幕府捡回来的。如果没有幕府的话就没有现在的我们，报恩尽忠是武士的夙愿，真选组的剑是为了幕府而存在的。',
       reference: 'TV版第14话，讨论是否要保护青蛙',
-      scene: 'http://aniquo.qiniudn.com/images/quoteScene/12a151b435b9f5a4c0c21e83e2e65447',
+      scene: '/images/quoteScene/12a151b435b9f5a4c0c21e83e2e65447',
       characters: ['总悟', '近藤']
     },
     {
       quote: '眼前有人的生命收到威胁的话，不管他是好人还是坏人都要出手相救，那才是人应该有的姿态。',
       reference: 'TV版第14话',
-      scene: 'http://aniquo.qiniudn.com/images/quoteScene/80dec790d988bb129829a5ede308a716',
+      scene: '/images/quoteScene/80dec790d988bb129829a5ede308a716',
       characters: ['近藤']
     },
     {
       quote: '山崎：命令我们去保护这种混蛋，我们身处的幕府已经变成什么样了啊？\n\n土方：事到如今还说什么呢？如今的幕府，根本不是为了我们人类行使职能的，这种事情不早就心知肚明了吗？你们的剑是为了什么而存在的？是为了保护幕府吗？是为了保护将军吗？我可不是。还记得吗？那时候把我们这些没有学问没有容身之处，除了剑之外就一无是处的无赖迎进破烂不堪的道场的是谁？因为废刀令失去了剑，甚至连道场也失去了。即使如此也没有抛弃我们的是谁？帮我们找回失去了的剑又是谁？不是幕府也不是将军。我的命中大将从那时候开始，就只有那家伙一个人。既然大将说要保护他，那也没有其他办法。不管他是什么家伙，我都会保护他。不满意的话就回去，我是不会阻止。',
       reference: 'TV版第14话，近藤为保护青蛙受伤后',
-      scene: 'http://aniquo.qiniudn.com/images/quoteScene/473c64bf31d28c425ac4a754543dbe56',
+      scene: '/images/quoteScene/473c64bf31d28c425ac4a754543dbe56',
       characters: ['山崎', '土方']
     },
     {
       quote: '土方，我和你是一样的，我在这里也是因为喜欢近藤。不过，那个人实在是有些好过头了。虽然很擅长发现别人的优点，但对于缺点却视而不见。有我啦，土方啦，这种品行不良的人平衡一下，不才正是真选组吗？',
       reference: 'TV版第14话，烧青蛙的时候',
-      scene: 'http://aniquo.qiniudn.com/images/quoteScene/c8b6b75e4bc746a221c4f5f3217cf2a8',
+      scene: '/images/quoteScene/c8b6b75e4bc746a221c4f5f3217cf2a8',
       characters: ['总悟']
     },
     {
       quote: '银时：我说你啊，这种年纪了还在这种地方消磨时间，真是比杯面上沾走的蔬菜碎屑还让人伤感啊。\n\n长谷川：我说你才是，年纪轻轻却从大白天开始，就一直泡在这种地方真的没关系吗？\n\n银时：人如果不能随心所欲地摄取糖分的话，就不知该如何是好了。这种时候，只要像这样看着小珠珠们一个个爆裂，就能感到安心啊。',
       reference: 'TV版第16话，和长谷川在游戏机室相遇',
-      scene: 'http://aniquo.qiniudn.com/images/quoteScene/be85314436839c741a4e661db067c041',
+      scene: '/images/quoteScene/be85314436839c741a4e661db067c041',
       characters: ['银时', '长谷川']
     },
     {
       quote: '秉持信念正直地走下去虽然没错，不过因此而无法行动的话，倒不如试着圆滑一下。柔和圆滑的做人，也没什么关系。这样走下去，一定会发现自己绝对不能放弃的人生真谛，不是吗？',
       reference: 'TV版第16话，和长谷川一起喝酒',
-      scene: 'http://aniquo.qiniudn.com/images/quoteScene/34ce95ccd3105ee5f26774f2cc68afeb',
+      scene: '/images/quoteScene/34ce95ccd3105ee5f26774f2cc68afeb',
       characters: ['银时']
     },
     {
       quote: '只是摘掉了墨镜，人生就能有如此改变，要向那些毛头小子惟命是从确实让人窝火，不过人不应该以年龄定论。有些小子虽然比我年轻，但对于人生却更有体会和感触。',
       reference: 'TV版第16话，找到工作后',
-      scene: 'http://aniquo.qiniudn.com/images/quoteScene/e65eab0de5c4ee773685f29af3268472',
+      scene: '/images/quoteScene/e65eab0de5c4ee773685f29af3268472',
       characters: ['MADAO']
     },
     {
       quote: '银时：儿子？你有过儿子啊。\n\n源外：虽然已经死了...自作主张的跑上战场，结果丢了小命。对机器人的热衷程度不亚于我，那臭小子曾经和我一起摆弄过那些机器人。现在回想起来，那段时间大概是我人生中最快乐的时光了。以前仅仅是因为喜好摆弄机器人，不用考虑别的多余的事情。可自从被人称为江户第一发明家之后，机器人就变成了我取得什么的手段。我那个小子因为反对那样的我就离家出走了，再没能回来。',
       reference: 'TV版第17话，和银时喝酒时回忆儿子',
-      scene: 'http://aniquo.qiniudn.com/images/quoteScene/d54aaa20ed530bbe701e639d0724bcc0',
+      scene: '/images/quoteScene/d54aaa20ed530bbe701e639d0724bcc0',
       characters: ['源外', '银时']
     },
     {
       quote: '高杉：果然祭典还是越华丽越好啊。可别乱动哦，所谓的白夜叉居然被人从背后暗算。银时，你是不是变弱了啊。\n\n银时：你为什么会在这儿？\n\n高杉：乖乖地看着吧，异常精彩的节目就要开始了。还记得吗？银时，我以前率领过一支叫做“鬼兵队”的义勇军，那里面有个叫做三郎的男人，对剑术是一窍不通，不过机械方面却十足的精通。说什么“我不是来打仗的，不过是和老爹赌气”之类的，是个三句话不离老爸的家伙。可是这样一个家伙，却没能回到老爹身边就死了。真是过分啊，我们明明曾经为了保护国家而那么拼命的对抗天人，可核心的幕府却那么快地就屈就于天人，鬼兵队也不例外，遭到了肃清的厄运。看着自己儿子的人头被示众在河边，老爸心理什么滋味儿不难想象啊。\n\n银时：高杉，是你唆使大叔的。\n\n高杉：唆使？说什么傻话。我看到了了不起的獠牙，我不过帮他磨快了而已。我很能明白那老头的痛苦啊，因为在我体内，也仍有一只黑色的野兽在痛苦地翻滚，帮伙伴们报仇，让那些混蛋尝尝同样的痛苦“杀死他们，杀死他们”这样的声音二十四小时在耳边回荡。银时，难道你听不到吗？不，不可能听不到的，对过去视而不见，活得逍遥自在的你，拔掉了獠牙的现在的你，是不可能明白我们的心情的。\n\n银时：高杉啊，被你这么藐视可让人很不爽。区区野兽，我也是有的...',
       reference: 'TV版第17话，和银时在祭典相遇',
-      scene: 'http://aniquo.qiniudn.com/images/quoteScene/d7ef8a1124b456e63580846cfa8eed05',
+      scene: '/images/quoteScene/d7ef8a1124b456e63580846cfa8eed05',
       characters: ['高杉', '银时']
     },
     {
       quote: '银时：哦，你的节目还真是弄了很大动静啊。玩英雄秀吗？也让我过把英雄瘾吧。\n\n源外：你不够格，给我让开。\n\n银时：一个人自言自语地写了剧本，哪有道理连演员都霸着不放...现在已经不流行报仇这一说了。你这样三郎会哭的。\n\n源外：你说哪个三郎？\n\n银时：哪个都会。任何人都不期望这种结局。你自己心里不也明白吗？\n\n源外：我明白，可是...我实在痛苦的受不了。儿子遭到那样的毒手，只有我一个老头苟延残喘...只能一直看着那些痛苦的回忆，我已经累了。是否能取得将军的人头，其实已经没所谓了。我也非常清楚，对于死者我做什么都无济于事，我只是想选择符合自己信念的死法，所以你给我让开。阻止我的话，即使是你我也不会客气的。\n\n银时：我不让开，我也有必须贯彻始终的信念。',
       reference: 'TV版第17话，阻止源外大叔',
-      scene: 'http://aniquo.qiniudn.com/images/quoteScene/c6d8622d92dfc57e4fd52a0d3f1459cc',
+      scene: '/images/quoteScene/c6d8622d92dfc57e4fd52a0d3f1459cc',
       characters: ['银时', '源外']
     },
     {
       quote: '桂：看来你失败了啊。\n\n高杉：出现了一些意外的干扰。我还以为他的獠牙早就被拔光了，看来大大失算了。\n\n桂：人类为了守护什么的时候都会利刃相向。没有任何想要守护的对象的你，不过是野兽而已...高杉。\n\n高杉：当野兽也不错，反正我没有想要守护的东西，也根本没有必要。我只要毁灭一切，直到野兽呻吟停止的那一天。',
       reference: 'TV版第17话，高杉计划失败后',
-      scene: 'http://aniquo.qiniudn.com/images/quoteScene/b0c197bff056f90ee24dd78e155e96b3',
+      scene: '/images/quoteScene/b0c197bff056f90ee24dd78e155e96b3',
       characters: ['桂', '高杉']
     },
     {
       quote: '新八：姐姐你拿出这么多条内裤晃来晃去，也为我这个弟弟想想嘛。无地自容了，比被家人一起看到还要尴尬好多。\n\n神乐：就这样，少年才能跨上成人的阶梯的说。',
       reference: 'TV版第18话，妙把内裤晃来晃去',
-      scene: 'http://aniquo.qiniudn.com/images/quoteScene/92e64c958e1322ddbbc21ef2192dad5d',
+      scene: '/images/quoteScene/92e64c958e1322ddbbc21ef2192dad5d',
       characters: ['新八', '神乐']
     },
     {
       quote: '我不管他是什么裤裆布假面还是小短裤假面，这种践踏少女纯情与男子汉骄傲的恶行，绝对不能饶恕！振作精神，一鼓作气，一击必杀，血染他的白色小短裤！',
       reference: 'TV版第18话，备战内裤假面',
-      scene: 'http://aniquo.qiniudn.com/images/quoteScene/4defe66aa4da2761d1ad567241ed2c0c',
+      scene: '/images/quoteScene/4defe66aa4da2761d1ad567241ed2c0c',
       characters: ['银时']
     },
     {
       quote: '人啊，果然还是不能等着天上掉馅饼啊。流着汗水辛苦挣来的钱，才能实实在在的抓牢。',
       reference: 'TV版第19话，和银时一起感叹',
-      scene: 'http://aniquo.qiniudn.com/images/quoteScene/6c121fdde37aef4deae832e0415b79e3',
+      scene: '/images/quoteScene/6c121fdde37aef4deae832e0415b79e3',
       characters: ['长谷川']
     },
     {
       quote: '你们遇到什么沮丧的事情时，如何恢复心情的？人啊，根据重新振作的方法，大概可以分为两种。一种是看着比自己卑微的东西，找寻垫底的借以自慰。另一种是看着比自己伟大的东西，狠狠地踢醒毫无气度的自己。',
       reference: 'TV版第19话',
-      scene: '"http://aniquo.qiniudn.com/images/quoteScene/65f7029002d259f2fbfa73f079ffe80f',
+      scene: '"/images/quoteScene/65f7029002d259f2fbfa73f079ffe80f',
       characters: ['长谷川']
     },
     {
@@ -516,7 +516,7 @@ exports.gintama = {
     {
       quote: '小猿：对不起，阿银。其实我们什么事儿也没发生过，但是我却如此利用了你。\n\n银时：喂 你在干吗？我的脸又没受伤。我说你，听见没。算了，别碰我了，总觉得有一股纳豆臭。女人连包扎都不行的话会嫁不出去的哦。再见了。还有，下次想要求助的时候，不用拐弯抹角的，直接来万事屋好了。\n\n小猿：男人这种生物真是愚蠢。',
       reference: 'TV版22话，结尾',
-      scene: 'http://aniquo.qiniudn.com/images/quoteScene/09c712cc73e9664863d94e456f5fcfcf',
+      scene: '/images/quoteScene/09c712cc73e9664863d94e456f5fcfcf',
       characters: ['小猿', '银桑']
     },
     {

@@ -45,13 +45,13 @@ exports.fate = {
     {
       quote: '试问，汝是我的master吗？\n\nServant Saber遵从召唤而来。\n\n此后，吾之剑与汝同在，汝之命运与吾共存。\n\n于此，契约完成。',
       reference: 'Fate/stay night UBW 第1话',
-      scene: 'http://aniquo.qiniudn.com/images/quoteScene/a143ac3822323c2faf350dff5211f38a',
+      scene: '/images/quoteScene/a143ac3822323c2faf350dff5211f38a',
       characters: ['Saber']
     },
     {
       quote: '贱人就该有个贱人的下场。\n\n(还有字幕组翻译成：贱人最适合被做成串烧了。)',
       reference: 'Fate/stay night UBW第3话',
-      scene: 'http://aniquo.qiniudn.com/images/quoteScene/01adcd793dbb01787b73f4815222bbfb',
+      scene: '/images/quoteScene/01adcd793dbb01787b73f4815222bbfb',
       characters: ['依莉雅']
     },
     {
